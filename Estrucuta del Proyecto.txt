@@ -1,0 +1,10 @@
+Proximo proyecto = Venta de Productos Tecnologicos.
+
+Bases de Datos=  
+2 Tablas= Productos,Marcas
+ 
+Productos = codigo,nombre,marca,fecha,precio
+
+Marcas = id_Marca,Marca 
+Combobox en windows form.
+

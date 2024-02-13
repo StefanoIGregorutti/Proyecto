@@ -1,0 +1,22 @@
+C:\Users\Lenovo\OneDrive\Escritorio\Proyecto PT\ProductosTecnologicos\bin\Debug\ProductosTecnologicos.exe.config
+C:\Users\Lenovo\OneDrive\Escritorio\Proyecto PT\ProductosTecnologicos\bin\Debug\ProductosTecnologicos.exe
+C:\Users\Lenovo\OneDrive\Escritorio\Proyecto PT\ProductosTecnologicos\bin\Debug\ProductosTecnologicos.pdb
+C:\Users\Lenovo\OneDrive\Escritorio\Proyecto PT\ProductosTecnologicos\obj\Debug\ProductosTecnologicos.csproj.AssemblyReference.cache
+C:\Users\Lenovo\OneDrive\Escritorio\Proyecto PT\ProductosTecnologicos\obj\Debug\ProductosTecnologicos.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lenovo\OneDrive\Escritorio\Proyecto PT\ProductosTecnologicos\obj\Debug\ProductosTecnologicos.FrmProductos.resources
+C:\Users\Lenovo\OneDrive\Escritorio\Proyecto PT\ProductosTecnologicos\obj\Debug\ProductosTecnologicos.Properties.Resources.resources
+C:\Users\Lenovo\OneDrive\Escritorio\Proyecto PT\ProductosTecnologicos\obj\Debug\ProductosTecnologicos.csproj.GenerateResource.cache
+C:\Users\Lenovo\OneDrive\Escritorio\Proyecto PT\ProductosTecnologicos\obj\Debug\ProductosTecnologicos.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\OneDrive\Escritorio\Proyecto PT\ProductosTecnologicos\obj\Debug\ProductosTecnologicos.exe
+C:\Users\Lenovo\OneDrive\Escritorio\Proyecto PT\ProductosTecnologicos\obj\Debug\ProductosTecnologicos.pdb
+C:\Users\Lenovo\OneDrive\Escritorio\Proyectos Progra\Proyecto PT\ProductosTecnologicos\bin\Debug\ProductosTecnologicos.exe.config
+C:\Users\Lenovo\OneDrive\Escritorio\Proyectos Progra\Proyecto PT\ProductosTecnologicos\bin\Debug\ProductosTecnologicos.exe
+C:\Users\Lenovo\OneDrive\Escritorio\Proyectos Progra\Proyecto PT\ProductosTecnologicos\bin\Debug\ProductosTecnologicos.pdb
+C:\Users\Lenovo\OneDrive\Escritorio\Proyectos Progra\Proyecto PT\ProductosTecnologicos\obj\Debug\ProductosTecnologicos.csproj.AssemblyReference.cache
+C:\Users\Lenovo\OneDrive\Escritorio\Proyectos Progra\Proyecto PT\ProductosTecnologicos\obj\Debug\ProductosTecnologicos.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lenovo\OneDrive\Escritorio\Proyectos Progra\Proyecto PT\ProductosTecnologicos\obj\Debug\ProductosTecnologicos.FrmProductos.resources
+C:\Users\Lenovo\OneDrive\Escritorio\Proyectos Progra\Proyecto PT\ProductosTecnologicos\obj\Debug\ProductosTecnologicos.Properties.Resources.resources
+C:\Users\Lenovo\OneDrive\Escritorio\Proyectos Progra\Proyecto PT\ProductosTecnologicos\obj\Debug\ProductosTecnologicos.csproj.GenerateResource.cache
+C:\Users\Lenovo\OneDrive\Escritorio\Proyectos Progra\Proyecto PT\ProductosTecnologicos\obj\Debug\ProductosTecnologicos.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\OneDrive\Escritorio\Proyectos Progra\Proyecto PT\ProductosTecnologicos\obj\Debug\ProductosTecnologicos.exe
+C:\Users\Lenovo\OneDrive\Escritorio\Proyectos Progra\Proyecto PT\ProductosTecnologicos\obj\Debug\ProductosTecnologicos.pdb
